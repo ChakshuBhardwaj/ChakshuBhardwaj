@@ -1,6 +1,6 @@
 # Hey, I'm Chakshu 👋
  
-Embedded Systems Engineer based in London, Ontario 🇨🇦
+Embedded Systems Engineer based in London, Ontario, Canada 🍁
  
 ## 🛠️ Things I Work With
 - **Languages:** C, C++, Python, Bash/Shell.

@@ -7,7 +7,7 @@ Embedded Systems Engineer based in London, Ontario 🇨🇦
 - **RTOS:** FreeRTOS, bare-metal.
 - **Embedded Linux:** Yocto, custom BSP layers, U-Boot, device drivers.
 - **Hardware:** Altium Designer, STM32, ARM Cortex-M/A, i.MX8M Plus.
-- **Tools:** Git, CMake, GDB, PostgreSQL.
+- **Tools:** Git, CMake, GDB, SQLite.
  
 ## 💼 Stuff I've Built
 - Maintaining and extending a Yocto-based embedded Linux OS for an NHL media device
@@ -18,8 +18,7 @@ Embedded Systems Engineer based in London, Ontario 🇨🇦
 - GPS/telematics systems.
  
 ## 🌱 Currently Diving Into
-- Linux kernel driver development.
-- Linux Kernel contribution.
+- Linux kernel driver development & mainline contribution.
  
 ## 📫 Reach Me
 - chakshu.bhardwaj93@gmail.com

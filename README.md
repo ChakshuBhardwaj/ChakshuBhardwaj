@@ -21,8 +21,8 @@ Embedded Systems Engineer based in London, Ontario 🇨🇦
 - Linux kernel driver development.
 - Linux Kernel contribution.
  
-## 📫 Find Me
-[LinkedIn](www.linkedin.com/in/chakshu-bhardwaj-53b56190) · chakshu.bhardwaj93@gmail.com
+## 📫 Reach Me
+- chakshu.bhardwaj93@gmail.com
 
 <!---
 ChakshuBhardwaj/ChakshuBhardwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
